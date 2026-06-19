@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+library
+
+# Generated data files (don't commit user data)
+books.txt
+users.txt
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
